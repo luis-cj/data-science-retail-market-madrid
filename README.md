@@ -35,11 +35,10 @@ After talking with the business team we are informed that those levers (this is,
 ### 4. Entities and data
 The relevant entities we can retrieve data from in order to accomplish our objective are the following:
 
-- Properties
-- Owners
-- Districts
+- Airbnb dataset of Madrid
+- Price per m<sup>2</sup> in the city of Madrid by district
 
-The data 
+Some web scrapping is necessary to obtain all the data. 
 
 ### 5. Seed questions
 These are the first questions we need to start finding relevant insights. Different questions apply to each lever.

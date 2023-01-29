@@ -69,13 +69,13 @@ About property price:
 ### 6. Analysis and insights
 All the analysis is carried out in the following Jupyter Notebooks (Python):
 
-[Retail market analysis in Madrid Python script (PART 1)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_1.ipynb)
+[Retail market analysis in Madrid - Python script (PART 1)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_1.ipynb)
 
-[Retail market analysis in Madrid Python script (PART 2)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_2.ipynb)
+[Retail market analysis in Madrid - Python script (PART 2)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_2.ipynb)
 
-[Retail market analysis in Madrid Python script (PART 3)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_3.ipynb)
+[Retail market analysis in Madrid - Python script (PART 3)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_3.ipynb)
 
-[Retail market analysis in Madrid Python script (PART 4)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_4.ipynb)
+[Retail market analysis in Madrid - Python script (PART 4)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_4.ipynb)
 
 Here is a summary of the steps taken throughout the analysis process:
 
@@ -89,7 +89,7 @@ Here is a summary of the steps taken throughout the analysis process:
 For this project a report was generated, communicating all the analysis and found insights.
 The report can be checked in the following file:
 
-[Retail market analysis in Madrid report](https://github.com/luis-cj/data-science-retail-market-mallorca/blob/main/report.md)
+[Retail market analysis in Madrid - Report](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/report.md)
 
 ## BONUS: Lessons learnt
 

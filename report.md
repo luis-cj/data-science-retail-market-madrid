@@ -40,3 +40,15 @@ The company has decided to invest in Madrid to make great investments in importa
   <img width="557" height="389" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_2.png">
 </p>
 
+### The neighbourhoods of Arganzuela and Moncloa are the most demanded ones during the whole year
+
+
+### Evaluate the development of a new product based on a temporary rent based on sports events
+
+- Look for opportunities in San Blas neighbourhood.
+- There are still many renting properties that are not taking advantage of this.
+
+#### Exhibit 4
+
+
+#### Exhibit 5

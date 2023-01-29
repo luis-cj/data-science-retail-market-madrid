@@ -16,4 +16,14 @@ The company has decided to invest in Madrid to make great investments in importa
 - It is suggested to look for properties especially in the neighbourhood of Arganzuela and Moncloa - Aracava
 - It is suggested to evaluate the development of a new product based on a temporary rent based on sports events, especially in the neighbourhood San Blas - Canillejas.
 
-## 
+## Details of the principal insights
+
+### Identified 11 neighbourhoods to focus the attention on
+
+- 11 neighbourhoods have been identified that can maximise the cost-revenue relationship
+- We can classify them according to the property quality we might be interested in investing, resulting in 4 big groups
+- These are the 11 neighbourhoods where to start searching good opportunities:
+    * Low quality: Hellín, Simancas, Rejas, Marroquina
+    * Mid quality: Piovera, Valdefuentes, Argüelles
+    * Mid-high quality: Jerónimos, El Viso, Cortes
+    * High quality: Recoletos

@@ -27,3 +27,9 @@ The company has decided to invest in Madrid to make great investments in importa
     * Mid quality: Piovera, Valdefuentes, Argüelles
     * Mid-high quality: Jerónimos, El Viso, Cortes
     * High quality: Recoletos
+
+#### Exhibit 1
+<p align="center">
+  <img width="460" height="300" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_1.png">
+</p>
+

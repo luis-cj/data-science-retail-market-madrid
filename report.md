@@ -11,7 +11,7 @@ The company has decided to invest in Madrid to make great investments in importa
 
 ## Executive conclusions
 
-- Identified 10 neighbourhoods to focus the attention on
+- Identified 11 neighbourhoods to focus the attention on
 - It is suggested to look for properties with 1 bedroom that can fit 3 guests
 - It is suggested to look for properties especially in the neighbourhood of Arganzuela and Moncloa - Aracava
 - It is suggested to evaluate the development of a new product based on a temporary rent based on sports events, especially in the neighbourhood San Blas - Canillejas.

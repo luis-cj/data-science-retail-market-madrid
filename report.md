@@ -37,6 +37,6 @@ The company has decided to invest in Madrid to make great investments in importa
 
 #### Exhibit 2
 <p align="center">
-  <img width="524" height="357" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_2.png">
+  <img width="557" height="389" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_2.png">
 </p>
 

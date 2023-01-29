@@ -58,7 +58,6 @@ About availability:
 - What is the mean availability? What is the variation among the different districts?
 - What is the average availability ranking for the different districts and neighbourhoods?
 - What are the most important factors that determine the availability?
-- What is the relationship between the property size and the renting price?
 - How does the amount of properties per district affect the availability?
 
 About property price:
@@ -66,6 +65,7 @@ About property price:
 - What is the property price ranking by m<sup>2</sup> by district?
 - What is the relationship between the property price and the renting price by district?
 - What is the relationship between the property price and the availability by district?
+
 
 ### 6. Analysis and insights
 All the analysis is carried out in the following Jupyter Notebooks (Python):

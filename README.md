@@ -9,7 +9,7 @@ A retail business is dedicated to make great investments in important touristic 
 The business managers have recently decided to invest in Madrid. The data science team has been required to analayse the Airbnb public data to find those properties that can lead to the greatest revenue for the business.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/luis-cj/data-science-retail-market-barcelona/blob/main/images/barcelona_gif.gif">
+  <img width="460" height="300" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/madrid.gif">
 </p>
 
 

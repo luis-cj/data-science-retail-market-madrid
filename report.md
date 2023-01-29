@@ -1,8 +1,6 @@
 # Final report: Retail market analysis in Madrid
 
 ## Context
-A retail business is dedicated to make great investments in important touristic cities where they can buy properties and eventually rent them as tourist apartments. 
-
 The company has decided to invest in Madrid to make great investments in important touristic cities where they can buy properties and eventually rent them as tourist apartments. The data science team has been required to analayse the Airbnb public data to find those properties that can lead to the greatest revenue for the business through a Discovery project.
 
 ## Objectives

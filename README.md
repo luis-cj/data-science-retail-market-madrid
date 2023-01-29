@@ -24,7 +24,7 @@ Find the property profile that maximise the potential revenue in the renting ret
 After talking with the business team we are informed that those levers (this is, metrics we can analyse) that have the greatest revenue impact are the following:
 
 - **Renting price**: the greater the renting price the greater the revenue.
-- **Availability**: generally the more days the property is available for renting the greater the revenue.
+- **Availability**: generally the more days the property is occupied for renting the greater the revenue (more demand).
 - **Property price**: the cheaper the property the greater the revenue.
 
 ### 3. KPIs

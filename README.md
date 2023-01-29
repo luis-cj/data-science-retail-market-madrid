@@ -1,12 +1,12 @@
-# Data science project: retail market analysis of Barcelona using Airbnb data (**UNFINISHED**)
-Data science project analysing Airbnb data of Barcelona to help a retail business make strategic decisions.
+# Data science project: retail market analysis of Madrid using Airbnb data (**UNFINISHED**)
+Data science project analysing Airbnb data of Madrid to help a retail business make strategic decisions.
 
 This is a **discovery project**, where the main goal is to explore the data sources, check hypotheses and find out new patterns and insights relevant for the business without requiring any machine learning algorithm.
 
 ## Context
 A retail business is dedicated to make great investments in important touristic cities where they can buy properties and eventually rent them as tourist apartments. 
 
-The business managers have recently decided to invest in Barcelona. The data science team has been required to analayse the Airbnb public data to find those properties that can lead to the greatest revenue for the business.
+The business managers have recently decided to invest in Madrid. The data science team has been required to analayse the Airbnb public data to find those properties that can lead to the greatest revenue for the business.
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/luis-cj/data-science-retail-market-barcelona/blob/main/images/barcelona_gif.gif">
@@ -70,7 +70,7 @@ About property price:
 ### 6. Analysis and insights
 All the analysis is carried out in the following Jupyter Notebooks (Python):
 
-[Retail market analysis in Barcelona Python script (PART 1)](https://github.com/luis-cj/data-science-retail-market-mallorca/blob/main/retail_market_mallorca_part_1.ipynb)
+[Retail market analysis in Madrid Python script (PART 1)](https://github.com/luis-cj/data-science-retail-market-mallorca/blob/main/retail_market_mallorca_part_1.ipynb)
 
 Here is a summary of the steps taken throughout the analysis process:
 
@@ -85,7 +85,7 @@ Here is a summary of the steps taken throughout the analysis process:
 For this project a report was generated, communicating all the analysis and found insights.
 The report can be checked in the following file:
 
-[Retail market analysis in Barcelona report](https://github.com/luis-cj/data-science-retail-market-mallorca/blob/main/report.md)
+[Retail market analysis in Madrid report](https://github.com/luis-cj/data-science-retail-market-mallorca/blob/main/report.md)
 
 ## BONUS: Lessons learnt
 

@@ -82,9 +82,8 @@ Here is a summary of the steps taken throughout the analysis process:
 - Gathering the data from the internet and create a database using SQLite
 - Selecting what data is useful for the project
 - Cleaning the data
-- ...
-
-
+- Create and transform relevant variables for the project
+- Analyse the data by answering the seed questions from Section 5.
 
 ### 7. Communication
 For this project a report was generated, communicating all the analysis and found insights.
@@ -94,3 +93,8 @@ The report can be checked in the following file:
 
 ## BONUS: Lessons learnt
 
+- Cleaning data is not so straightforward. That's why analysing data is an iterative process, because normally some data quality problems are only found at later stages during data analysis processes rather than during the cleaning process.
+
+- It is very difficult to have all the data. Many assumptions are made during the process due to lacking information. Then, the more data (and more relevant) we can have the better is the approach to any problem.
+
+- Business knowledge is very helpful. Making the correct questions is key when looking for data insights. Sometimes an analytical mindset is enough, but business knowledge about the project topic can accelerate the analysis process.

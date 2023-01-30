@@ -30,7 +30,7 @@ The company has decided to invest in Madrid to make great investments in importa
 
 #### Exhibit 1
 <p align="center">
-  <img width="943" height="695" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_1.png">
+  <img width="947" height="719" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_1.png">
 </p>
 
 ### Look for properties with 1 bedroom that can fit up to 3 guests

@@ -60,8 +60,13 @@ The company has decided to invest in Madrid to make great investments in importa
 - Look for opportunities in San Blas neighbourhood.
 - There are still many renting properties that are not taking advantage of this.
 
-#### Exhibit 4
+#### Exhibit 4.1
+<p align="center">
+  <img width="959" height="552" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_4_1.png">
+</p>
 
 
-
-#### Exhibit 5
+#### Exhibit 4.2
+<p align="center">
+  <img width="959" height="552" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_4_2.png">
+</p>

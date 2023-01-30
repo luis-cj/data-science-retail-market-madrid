@@ -47,7 +47,11 @@ The company has decided to invest in Madrid to make great investments in importa
 
 #### Exhibit 3
 <p align="center">
-  <img width="943" height="695" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_3.PNG">
+  <img width="943" height="695" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_3_1.png">
+</p>
+
+<p align="center">
+  <img width="943" height="695" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_3_2.png">
 </p>
 
 ### Evaluate the development of a new product based on a temporary rent based on sports events

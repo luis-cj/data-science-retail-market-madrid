@@ -42,6 +42,13 @@ The company has decided to invest in Madrid to make great investments in importa
 
 ### The neighbourhoods of Arganzuela and Moncloa are the most demanded ones during the whole year
 
+- The occupancy rate of Arganzuela and Moncloa during the whole year are 62% and 58%, respectively.
+- They are close to the city center but their mean purchase price is very close to the overall market average.
+
+#### Exhibit 3
+<p align="center">
+  <img width="557" height="389" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight3.png">
+</p>
 
 ### Evaluate the development of a new product based on a temporary rent based on sports events
 
@@ -49,6 +56,7 @@ The company has decided to invest in Madrid to make great investments in importa
 - There are still many renting properties that are not taking advantage of this.
 
 #### Exhibit 4
+
 
 
 #### Exhibit 5

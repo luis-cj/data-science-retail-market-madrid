@@ -62,11 +62,14 @@ The company has decided to invest in Madrid to make great investments in importa
 
 #### Exhibit 4.1
 <p align="center">
-  <img width="959" height="552" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_4_1.png">
+  <img width="957" height="552" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_4_1.png">
 </p>
 
 
 #### Exhibit 4.2
+
+There are many properties that are still not taking the advantage of the sports events nearby, represented by blue and yellow dots.
+
 <p align="center">
-  <img width="959" height="552" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_4_2.png">
+  <img width="959" height="552" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_4_2.PNG">
 </p>

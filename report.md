@@ -71,5 +71,5 @@ The company has decided to invest in Madrid to make great investments in importa
 There are many properties that are still not taking the advantage of the sports events nearby, represented by blue and yellow dots.
 
 <p align="center">
-  <img width="959" height="552" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_4_2.PNG">
+  <img width="1182" height="756" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_4_2.PNG">
 </p>

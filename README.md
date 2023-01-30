@@ -1,4 +1,4 @@
-# Data science project: retail market analysis of Madrid using Airbnb data (**UNFINISHED**)
+# Data science project: retail market analysis of Madrid using Airbnb data
 Data science project analysing Airbnb data of Madrid to help a retail business make strategic decisions.
 
 This is a **discovery project**, where the main goal is to explore the data sources, check hypotheses and find out new patterns and insights relevant for the business without requiring any machine learning algorithm.

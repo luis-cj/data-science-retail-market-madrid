@@ -14,7 +14,7 @@ The company has decided to invest in Madrid to make great investments in importa
 - Identified 11 neighbourhoods to focus the attention on
 - It is suggested to look for properties with 1 bedroom that can fit 3 guests
 - It is suggested to look for properties especially in the neighbourhood of Arganzuela and Moncloa - Aracava
-- It is suggested to evaluate the development of a new product based on a temporary rent based on sports events, especially in the neighbourhood San Blas - Canillejas.
+- It is suggested to evaluate the development of a new product based on a temporary rent based on sports events (Champions League and other events), especially in the neighbourhood San Blas - Canillejas.
 
 ## Details of the principal insights
 
@@ -68,7 +68,7 @@ The company has decided to invest in Madrid to make great investments in importa
 
 #### Exhibit 4.2
 
-There are many properties that are still not taking the advantage of the sports events nearby, represented by blue and yellow dots.
+There are many properties that are still not taking the advantage of the sports events nearby (Wanda Metropolitano stadium), represented by blue and yellow dots.
 
 <p align="center">
   <img width="1182" height="756" src="https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/images/insight_4_2.PNG">

@@ -69,13 +69,13 @@ About property price:
 ### 6. Analysis and insights
 All the analysis is carried out in the following Jupyter Notebooks (Python):
 
-[Retail market analysis in Madrid - Python script (PART 1)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_1.ipynb)
+[Retail market analysis in Madrid - Python script (PART 1 - DATA ACQUISITION)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_1.ipynb)
 
-[Retail market analysis in Madrid - Python script (PART 2)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_2.ipynb)
+[Retail market analysis in Madrid - Python script (PART 2 - CREATE DATA MART)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_2.ipynb)
 
-[Retail market analysis in Madrid - Python script (PART 3)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_3.ipynb)
+[Retail market analysis in Madrid - Python script (PART 3 - DATA PREPARATION)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_3.ipynb)
 
-[Retail market analysis in Madrid - Python script (PART 4)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_4.ipynb)
+[Retail market analysis in Madrid - Python script (PART 4 - ANALYSIS AND INSIGHTS)](https://github.com/luis-cj/data-science-retail-market-madrid/blob/main/retail_market_madrid_part_4.ipynb)
 
 Here is a summary of the steps taken throughout the analysis process:
 
